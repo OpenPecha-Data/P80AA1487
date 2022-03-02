@@ -1,0 +1,13 @@
+id: P80AA1487
+initial_creation_type: input
+source_metadata:
+  title: Dīrghāgama, sūtras no. 35-41
+  language: sa
+  volumes:
+    cce8d4047fe745b2aa5b672f1ece9c35:
+      title: Complete text
+      base_file: Complete text.txt
+      work_id: W09F140CB
+  chapter_to_tile: {}
+created_at: '2022-03-02T08:54:11.085001'
+last_modified_at: '2022-03-02T08:54:11.085021'
